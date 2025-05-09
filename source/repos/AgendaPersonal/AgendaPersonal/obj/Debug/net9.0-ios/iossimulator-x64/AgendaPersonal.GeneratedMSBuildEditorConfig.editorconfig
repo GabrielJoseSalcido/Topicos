@@ -1,0 +1,79 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net9.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AgendaPersonal
+build_property.ProjectDir = C:\Users\gaboc\source\repos\AgendaPersonal\AgendaPersonal\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/gaboc/source/repos/AgendaPersonal/AgendaPersonal/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AgendaPersonal.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/gaboc/source/repos/AgendaPersonal/AgendaPersonal/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AgendaPersonal.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/gaboc/source/repos/AgendaPersonal/AgendaPersonal/ConfiguracionPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AgendaPersonal.ConfiguracionPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ConfiguracionPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ConfiguracionPage.xaml
+
+[C:/Users/gaboc/source/repos/AgendaPersonal/AgendaPersonal/ContactosPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AgendaPersonal.ContactosPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ContactosPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ContactosPage.xaml
+
+[C:/Users/gaboc/source/repos/AgendaPersonal/AgendaPersonal/CrearContactoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AgendaPersonal.CrearContactoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = CrearContactoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = CrearContactoPage.xaml
+
+[C:/Users/gaboc/source/repos/AgendaPersonal/AgendaPersonal/DetalleContactoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AgendaPersonal.DetalleContactoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = DetalleContactoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = DetalleContactoPage.xaml
+
+[C:/Users/gaboc/source/repos/AgendaPersonal/AgendaPersonal/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AgendaPersonal.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = LoginPage.xaml
+
+[C:/Users/gaboc/source/repos/AgendaPersonal/AgendaPersonal/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AgendaPersonal.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/gaboc/source/repos/AgendaPersonal/AgendaPersonal/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AgendaPersonal.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/gaboc/source/repos/AgendaPersonal/AgendaPersonal/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AgendaPersonal.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
