@@ -1,0 +1,15 @@
+C:\Users\gaboc\source\repos\GUI_Basica\Hilos_Concurrencia\bin\Debug\net8.0\Hilos_Concurrencia.exe
+C:\Users\gaboc\source\repos\GUI_Basica\Hilos_Concurrencia\bin\Debug\net8.0\Hilos_Concurrencia.deps.json
+C:\Users\gaboc\source\repos\GUI_Basica\Hilos_Concurrencia\bin\Debug\net8.0\Hilos_Concurrencia.runtimeconfig.json
+C:\Users\gaboc\source\repos\GUI_Basica\Hilos_Concurrencia\bin\Debug\net8.0\Hilos_Concurrencia.dll
+C:\Users\gaboc\source\repos\GUI_Basica\Hilos_Concurrencia\bin\Debug\net8.0\Hilos_Concurrencia.pdb
+C:\Users\gaboc\source\repos\GUI_Basica\Hilos_Concurrencia\obj\Debug\net8.0\Hilos_Concurrencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaboc\source\repos\GUI_Basica\Hilos_Concurrencia\obj\Debug\net8.0\Hilos_Concurrencia.AssemblyInfoInputs.cache
+C:\Users\gaboc\source\repos\GUI_Basica\Hilos_Concurrencia\obj\Debug\net8.0\Hilos_Concurrencia.AssemblyInfo.cs
+C:\Users\gaboc\source\repos\GUI_Basica\Hilos_Concurrencia\obj\Debug\net8.0\Hilos_Concurrencia.csproj.CoreCompileInputs.cache
+C:\Users\gaboc\source\repos\GUI_Basica\Hilos_Concurrencia\obj\Debug\net8.0\Hilos_Concurrencia.sourcelink.json
+C:\Users\gaboc\source\repos\GUI_Basica\Hilos_Concurrencia\obj\Debug\net8.0\Hilos_Concurrencia.dll
+C:\Users\gaboc\source\repos\GUI_Basica\Hilos_Concurrencia\obj\Debug\net8.0\refint\Hilos_Concurrencia.dll
+C:\Users\gaboc\source\repos\GUI_Basica\Hilos_Concurrencia\obj\Debug\net8.0\Hilos_Concurrencia.pdb
+C:\Users\gaboc\source\repos\GUI_Basica\Hilos_Concurrencia\obj\Debug\net8.0\Hilos_Concurrencia.genruntimeconfig.cache
+C:\Users\gaboc\source\repos\GUI_Basica\Hilos_Concurrencia\obj\Debug\net8.0\ref\Hilos_Concurrencia.dll
